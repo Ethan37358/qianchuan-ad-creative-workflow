@@ -1,0 +1,30 @@
+[
+  {
+    "scene": 1,
+    "time": "0-3s",
+    "voiceover": "",
+    "visual": "",
+    "query_cn": "",
+    "query_en": "",
+    "material_role": "hook"
+  },
+  {
+    "scene": 2,
+    "time": "3-7s",
+    "voiceover": "",
+    "visual": "",
+    "query_cn": "",
+    "query_en": "",
+    "material_role": "pain"
+  },
+  {
+    "scene": 3,
+    "time": "7-12s",
+    "voiceover": "",
+    "visual": "",
+    "query_cn": "",
+    "query_en": "",
+    "material_role": "product"
+  }
+]
+
