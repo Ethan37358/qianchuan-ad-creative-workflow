@@ -1,0 +1,22 @@
+{
+  "mode": "semi_auto",
+  "material_source": "local",
+  "voice_source": "minimax",
+  "bgm": true,
+  "video_count": 1,
+  "duration_seconds": 30,
+  "product": "",
+  "category": "",
+  "price_offer": "",
+  "campaign_goal": "商品卡成交",
+  "target_audience": "",
+  "selling_points": [],
+  "proof": [],
+  "usage_scenes": [],
+  "local_material_path": "",
+  "forbidden_claims": [],
+  "style": "",
+  "reference_materials": [],
+  "notes": ""
+}
+
