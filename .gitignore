@@ -1,0 +1,12 @@
+.env
+.qianchuan.env
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+work/
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.aiff
