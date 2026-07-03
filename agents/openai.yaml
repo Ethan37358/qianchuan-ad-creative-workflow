@@ -1,0 +1,4 @@
+interface:
+  display_name: "千川投放创意工作流"
+  short_description: "生成千川素材口播、分镜、素材需求与复盘方案"
+  default_prompt: "Use $qianchuan-ad-creative-workflow to turn a product brief into Qianchuan ad scripts, storyboard, material needs, and test plan."
